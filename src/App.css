@@ -12,6 +12,9 @@
     border: none;
     outline: none;
     cursor: pointer;
+    background-color: rgba(231, 142, 9, 0.775);
+    font-size: 24px;
+    font-weight: 700;
 }
 .open-modal:focus {
     border: none;
